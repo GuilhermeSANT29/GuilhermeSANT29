@@ -14,20 +14,15 @@
 ## 👨‍💻 Sobre Mim
 
 ```typescript
-const Guilherme Santos = {
+  Guilherme Santos = {
   idade: 17,
-  universidade: 
   curso: "Técnico em Ciberisistemas para automação",
-  especialidade: "Cybersegurança",
+  universidade: 
+  especialidade: C++ Python,
   localizacao: "Guaruhos, SP",
-  status: "Apaixonado por Tecnologia e inovação",
   mentalidade: "Sempre aprendendo, sempre evoluindo"
 };
 ```
-
-## 🛠️ Arsenal Tecnológico
-
----
 
 ## 📊 GitHub Analytics
 
@@ -46,18 +41,10 @@ const Guilherme Santos = {
 
 <div align="center">
 
-| **Período** | **Foco** | **Status** |
+| **Período** | **foco** | **Status** |
 |-------------|----------|-----------|
-| 2025-2026   | **Cibersistemas para automação** | 🎓 Em andamento |
+| 2025-2026   | **SENAI Cibersistema** | 🎓 Em andamento |
 
-</div>
-
----
-
-## 📈 Atividade & Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?user=GuilhermeSANT29&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -65,15 +52,17 @@ const Guilherme Santos = {
 ## 💼 Experiência Professional
 
 ```yaml
-Técnico:
+Técnico em ciberisistemas para automação - 2026
+Empresa - consórcio cantareira (odbreath e renea, reforma do rodonel)
 
+```
 
 ## 📞 Vamos Conectar?
 
 <div align="center">
 
 [![Portfolio]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-de-souza-8a440627a/](https://www.linkedin.com/in/gui-santos05092008/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-santos05092008/)
 [![Instagram]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contate.guilherme.santos@gmail.com)
 
