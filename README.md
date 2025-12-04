@@ -14,14 +14,13 @@
 ## 👨‍💻 Sobre Mim
 
 ```typescript
-  Guilherme Santos = {
-  idade: 17,
+  Guilherme Santos =
+  idade: 17
   curso: "Técnico em Ciberisistemas para automação",
   universidade: 
-  especialidade: C++ Python,
-  localizacao: "Guaruhos, SP",
+  especialidade: C++ Python
+  localizacao: "Guaruhos, SP"
   mentalidade: "Sempre aprendendo, sempre evoluindo"
-};
 ```
 
 ## 📊 GitHub Analytics
@@ -76,7 +75,5 @@ Empresa - consórcio cantareira (odbreath e renea, reforma do rodonel)
 <div align="center">
   
   **💡 "automate your business, taking care of your machines or systems."**
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeSANT29.GuilhermeSANT29)
   
 </div>
