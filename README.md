@@ -58,7 +58,7 @@ consórcio cantareira 2025 - 2026 | Técnico em Ciberisistemas
 <div align="center">
 
 🎯 **Foco total em sistemas automaticos**  
-⚡ **Compunter Networking is my life**  
+⚡ **Compunter Networking this is my life**  
 🚀 **Cybersecurity é meu playground**  
 🧠 **Sempre explorando novas tecnologias, minha dopamina e meu aprendizado**
 
@@ -72,6 +72,8 @@ consórcio cantareira 2025 - 2026 | Técnico em Ciberisistemas
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-santos05092008/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Sant_gewinner/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contate.guilherme.santos@gmail.com)
 
 </div>
 
