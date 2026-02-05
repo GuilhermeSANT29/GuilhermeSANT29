@@ -17,7 +17,7 @@
 ```typescript
   Guilherme Santos =
   idade: 17
-  curso: "Técnico em Ciberisistemas para automação",
+  curso Técnico: "SENAI Ciberisistemas para automação de software e hardware",
   universidade: 
   especialidade: C++ Python
   localizacao: "Guaruhos, SP"
