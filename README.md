@@ -27,9 +27,9 @@
 
 <div align="center">
 
-| **Período** | **foco** | **Status** |
-|-------------|----------|-----------|
-| 2025-2026   | **SENAI Cibersistema** | 🎓 Em andamento |
+| **Período** |        **foco**        | **Status**        |
+|-------------|------------------------|-------------------|
+| 2025-2026   | **SENAI Cibersistema** | 🎓Em andamento**  |
 
 </div>
 
@@ -38,8 +38,7 @@
 ## 💼 Experiência Professional
 
 ```yaml
-Técnico em ciberisistemas para automação - 2026
-Empresa - consórcio cantareira (odbreath e renea, reforma do rodonel)
+consórcio cantareira 2025 - 2026 | Técnico em Ciberisistemas
 
 ```
 
@@ -47,9 +46,7 @@ Empresa - consórcio cantareira (odbreath e renea, reforma do rodonel)
 
 <div align="center">
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-santos05092008/)
-
 
 </div>
 
