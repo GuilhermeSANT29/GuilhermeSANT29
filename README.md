@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6366f1&size=24&center=true&vCenter=true&width=600&height=60&lines=🎓+Técnico+em+Ciberisistemas+para+automação+de+software+e+hardware+-+SENAI;📱+React+Native+Developer;🔥+Firebase+%26+API+Specialist;⚡+TypeScript+%26+Go+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6366f1&size=24&center=true&vCenter=true&width=600&height=60&lines=🎓+Técnico+em+Ciberisistemas+para+automação+-+SENAI;🖥️+cyber+security+;🛜+computer+network;⚡+Programmer+%26+Py)](https://git.io/typing-svg)
   
 </div>
   
