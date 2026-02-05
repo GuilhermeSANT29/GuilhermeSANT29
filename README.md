@@ -29,7 +29,7 @@
 
 | **Período** |        **foco**        | **Status**        |
 |-------------|------------------------|-------------------|
-| 2025-2026   | **SENAI Cibersistema** | 🎓Em andamento**  |
+| 2025-2026   | **SENAI Cibersistema** | 🎓Em andamento    |
 
 </div>
 
