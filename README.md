@@ -23,14 +23,6 @@
   mentalidade: "Sempre aprendendo, sempre evoluindo"
 ```
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSANT29&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🎓 Jornada Acadêmica
 
 <div align="center">
