@@ -58,8 +58,8 @@ consórcio cantareira 2025 - 2026 | Técnico em Ciberisistemas
 <div align="center">
 
 🎯 **Foco total em sistemas automaticos**  
-  **💡 "automate your business, taking care of your machines or systems."**
-🧠 **Sempre explorando novas tecnologias, minha dopamina e meu aprendizado**
+💡 **"automate your business, taking care of your machines or systems."**  
+🧠 **Sempre explorando novas tecnologias, minha dopamina e meu aprendizado**  
 
 </div>
 
