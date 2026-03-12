@@ -58,8 +58,6 @@ consórcio cantareira 2025 - 2026 | Técnico em Ciberisistemas
 <div align="center">
 
 🎯 **Foco total em sistemas automaticos**  
-⚡ **Compunter Networking this is my life**  
-🚀 **Cybersecurity é meu playground**  
 🧠 **Sempre explorando novas tecnologias, minha dopamina e meu aprendizado**
 
 </div>
