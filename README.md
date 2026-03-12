@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6366f1&size=24&center=true&vCenter=true&width=600&height=60&speed=80&pause=2000&&lines=🎓+Técnico+em+Ciberisistemas+para+automação+;🖥️+DataBase+;🛜+computer+network;⚡+Programmer+;🔐+CyberSecurity+;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6366f1&size=24&center=true&vCenter=true&width=600&height=60&speed=80&pause=2000&&lines=🎓+Técnico+em+Ciberisistemas+para+automação+;🖥️+DataBase+;🛜+computer+network;⚡+Programmer+;🔐+CyberSecurity+;;💡+Hardware+;)](https://git.io/typing-svg)
   
 </div>
   
@@ -19,7 +19,7 @@
   idade: 17
   curso Técnico: "Ciberisistemas para automação de software e hardware",
   universidade: 
-  especialidade: C++ Python
+  especialidade: C++ Python MySQL
   localizacao: "Guaruhos, SP"
   mentalidade: "Sempre aprendendo, sempre evoluindo"
 ```
