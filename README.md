@@ -19,7 +19,7 @@
   idade: 17
   curso Técnico: "Ciberisistemas para automação de software e hardware",
   universidade: 
-  especialidade: C++ Python MySQL = Hardware Eletrical Systems
+  especialidade: C++ Python MySQL Hardware Eletrical Systems
   localizacao: "Guaruhos, SP"
   mentalidade: "Sempre aprendendo, sempre evoluindo"
 ```
