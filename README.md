@@ -1,4 +1,3 @@
-## Hello guy´s 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=guilhermeSANT29🍕&fontSize=40&fontColor=fff&animation=twinkling"/>
@@ -16,22 +15,20 @@
 
 ```typescript
   Guilherme Santos =
-  idade: 17
-  curso Técnico: "Ciberisistemas para automação de software e hardware",
-  universidade: 
-  especialidade: C# C++ Python MySQL Hardware Eletrical Systems
+  idade: 18
+  SENAI CT: "Ciberisistemas para automação de software e hardware", 
+  especialidade: Industria IoT, Gestão de Banco de dados, Cibersegurança e programador
   localizacao: "Guaruhos, SP"
-  mentalidade: "Sempre aprendendo, sempre evoluindo"
 ```
 
 ## 🎓 Jornada Acadêmica
 
 <div align="center">
 
-| **Período** |        **foco**        | **Status**        |
-|-------------|------------------------|-------------------|
-| 2025-2026   | **Técnico Cibersistema** | **🎓Em andamento** |
-
+| **Período** |        **foco**          | **Status**        |
+|-------------|--------------------------|-------------------|
+| 2025-2026   | **Técnico Cibersistema** | **Finalizado**    |
+|-------------|--------------------------|-------------------|
 </div>
 
 ---
@@ -50,28 +47,12 @@ consórcio cantareira 2025 - 2026 | Técnico em Ciberisistemas
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSANT29&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true"/>
 </div>
 
----
----
-
-## 🎮 Fun Facts
-
-<div align="center">
-
-🎯 **Foco total em sistemas automaticos**  
-💡 **"automate your business, taking care of your machines or systems."**  
-🧠 **Sempre explorando novas tecnologias, minha dopamina e meu aprendizado**  
-
-</div>
-
----
-
-
 ## 📞 Vamos Conectar?
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-santos05092008/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Sant_gewinner/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Sant_winner/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contate.guilherme.santos@gmail.com)
 
 </div>
