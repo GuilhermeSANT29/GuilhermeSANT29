@@ -15,11 +15,10 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&theme=dark&background=05060f&border=00e6ff20&stroke=00e6ff20&ring=00e6ff&fire=ff2d78&currStreakNum=00e6ff&sideNums=7a8fa8&currStreakLabel=4a5a7a&sideLabels=4a5a7a&dates=4a5a7a&disable_animations=true
           path: profile/streak.svg
