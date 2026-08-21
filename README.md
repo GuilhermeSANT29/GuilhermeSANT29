@@ -96,14 +96,13 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 - Técnico em Cibersistemas para Automação — SENAI 1200h | 2025 - 2026
 
 ---
+# 📊 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSANT29&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSANT29&layout=compact&hide_border=true&theme=github_dark" height="150">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSANT29&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" width="100%">
 
 </div>
-
 ---
 
 <p align="center">
