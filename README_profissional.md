@@ -80,7 +80,6 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 ## Certificações & Estudos
 
 - Técnico em Cibersistemas para Automação — SENAI *(em curso)*
-- *(adicionar: Cisco Networking Academy / Santander Cyber / TryHackMe / Blue Team Level 1, com link de verificação)*
 
 ---
 
