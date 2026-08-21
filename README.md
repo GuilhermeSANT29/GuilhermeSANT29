@@ -101,6 +101,12 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 
 <div align="center">
 
+<a href="https://github.com/GuilhermeSANT29">
+  <img src="./profile/streak.svg" alt="GitHub Streak" width="70%">
+</a>
+
+<br><br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSANT29&bg_color=05060f&color=00e6ff&line=00e6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Guilherme Santos Contribution Graph">
 
 </div>
