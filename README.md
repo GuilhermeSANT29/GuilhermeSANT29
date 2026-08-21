@@ -1,128 +1,117 @@
 <div align="center">
-<img src="assets/hero-binary-animated.svg" alt="Guilherme Santos — Cybersecurity: Network Security, Blue Team e Automação" width="100%">
 
-<h1>Guilherme Santos</h1>
-<p><b>Cybersecurity Analyst · SOC / Blue Team · Network Security &amp; Databases</b></p>
+<img src="assets/hero-binary-animated.svg" alt="GUILHERME SANTOS — CYBERSECURITY: NETWORK SECURITY, BLUE TEAM E AUTOMAÇÃO" width="100%">
+
+<h1><font face="Arial">GUILHERME SANTOS</font></h1>
+<p><font face="Arial"><b>CYBERSECURITY ANALYST · SOC / BLUE TEAM · NETWORK SECURITY &amp; DATABASES</b></font></p>
 
 <p align="center">
-  <a href="https://guilhermesant29.github.io/">
-    <img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF14" alt="Portfólio">
-  </a>
-  <a href="https://www.linkedin.com/in/gui-santos05092008/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-  </a>
-  <a href="mailto:contate.guilherme.santos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
-  </a>
-  <a href="https://guilhermesant29.github.io/CURRICULO-Guilherme-Santos.pdf">
-    <img src="https://img.shields.io/badge/Currículo-0D1117?style=for-the-badge&logo=readdotcv&logoColor=39FF14" alt="Currículo">
-  </a>
+  <a href="https://guilhermesant29.github.io/"><img src="https://img.shields.io/badge/PORTFÓLIO-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF14" alt="PORTFÓLIO"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/gui-santos05092008/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LINKEDIN"></a>&nbsp;
+  <a href="mailto:contate.guilherme.santos@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="EMAIL"></a>&nbsp;
+  <a href="https://guilhermesant29.github.io/CURRICULO-Guilherme-Santos.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-0D1117?style=for-the-badge&logo=readdotcv&logoColor=39FF14" alt="CURRÍCULO"></a>
 </p>
 
 </div>
 
 ---
 
----
-
-### `$ cat sobre.txt`
+## `$ CAT SOBRE.TXT`
 
 ```bash
-> Técnico em Cibersistemas para Automação — SENAI (Guarulhos, SP)
-> Especialidade: Network Security · Blue Team · Databases · Backend
-> Stack de defesa: SOC / Triagem · Análise de Logs · Threat Detection · Hardening
-> Stack técnica: Python · SQL/MySQL · Linux · Windows Server · TCP/IP
-> Idiomas: PT-BR (nativo) · EN (B1) · ES (A2)
-> Status: aberto a estágio e vagas júnior em Cybersecurity / SOC / Blue Team
+> TÉCNICO EM CIBERSISTEMAS PARA AUTOMAÇÃO — SENAI (GUARULHOS, SP)
+> ESPECIALIDADE: NETWORK SECURITY · BLUE TEAM · DATABASES · BACKEND
+> STACK DE DEFESA: SOC / TRIAGEM · ANÁLISE DE LOGS · THREAT DETECTION · HARDENING
+> STACK TÉCNICA: PYTHON · SQL/MYSQL · LINUX · WINDOWS SERVER · TCP/IP
+> IDIOMAS: PT-BR (NATIVO) · EN (B1) · ES (A2)
+> STATUS: ABERTO A ESTÁGIO E VAGAS JÚNIOR EM CYBERSECURITY / SOC / BLUE TEAM
 ```
 
 ---
 
-## Resumo
+## RESUMO
 
-Técnico em Cibersistemas para Automação (SENAI Guarulhos), com foco em **defesa**: monitoramento
-de eventos, análise de logs, segurança de redes e hardening. Complemento a área de segurança com
-uma base sólida em **bancos de dados e automação em Python**, o que me permite transformar dados
-brutos de infraestrutura em detecção e resposta.
+TÉCNICO EM CIBERSISTEMAS PARA AUTOMAÇÃO (SENAI GUARULHOS), COM FOCO EM **DEFESA**: MONITORAMENTO DE EVENTOS, ANÁLISE DE LOGS, SEGURANÇA DE REDES E HARDENING. COMPLEMENTO A ÁREA DE SEGURANÇA COM UMA BASE SÓLIDA EM **BANCOS DE DADOS E AUTOMAÇÃO EM PYTHON**, O QUE ME PERMITE TRANSFORMAR DADOS BRUTOS DE INFRAESTRUTURA EM DETECÇÃO E RESPOSTA.
 
-Atualmente construindo laboratórios próprios de SOC e análise de tráfego para documentar
-metodologia de triagem, detecção e resposta a incidentes.
+ATUALMENTE CONSTRUINDO LABORATÓRIOS PRÓPRIOS DE SOC E ANÁLISE DE TRÁFEGO PARA DOCUMENTAR METODOLOGIA DE TRIAGEM, DETECÇÃO E RESPOSTA A INCIDENTES.
 
 ---
 
-## Stack
+## STACK
 
-| Área | Tecnologias |
+| ÁREA | TECNOLOGIAS |
 | --- | --- |
-| **🛡️ Cyber Defense** | SOC / Triagem · Análise de Logs · Threat Detection · Incident Response · Hardening · Vulnerability Mgmt |
-| **🌐 Network Security** | TCP/IP · DNS · Wireshark · Nmap · Traffic Analysis |
-| **🗄️ Databases** | MySQL · SQL · Modelagem de dados |
-| **⚙️ Dev & Automação** | Python · REST APIs · Git/GitHub · C# . C++ . CLPs . ESP8266 / IoT |
-| **🖥️ Infra & OS** | Linux · Windows Server · Cloud Fundamentals |
+| **🛡️ CYBER DEFENSE** | SOC / TRIAGEM · ANÁLISE DE LOGS · THREAT DETECTION · INCIDENT RESPONSE · HARDENING · VULNERABILITY MGMT |
+| **🌐 NETWORK SECURITY** | TCP/IP · DNS · WIRESHARK · NMAP · TRAFFIC ANALYSIS |
+| **🗄️ DATABASES** | MYSQL · SQL · MODELAGEM DE DADOS |
+| **⚙️ DEV & AUTOMAÇÃO** | PYTHON · REST APIS · GIT/GITHUB · C# · C++ · CLPS · ESP8266 / IOT |
+| **🖥️ INFRA & OS** | LINUX · WINDOWS SERVER · CLOUD FUNDAMENTALS |
 
 ---
 
-## Projetos
+## PROJETOS
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-**🔌 IoT Monitoring System**
-Monitoramento com ESP8266 + API REST + MySQL + Google Sheets.
-`ESP8266` `REST API` `Python` `MySQL`
-[→ repositório](https://github.com/GuilhermeSANT29/Projeto-Integrador---IoT)
+**🔌 IOT MONITORING SYSTEM**  
+MONITORAMENTO COM ESP8266 + API REST + MYSQL + GOOGLE SHEETS.  
+`ESP8266` `REST API` `PYTHON` `MYSQL`  
+[→ REPOSITÓRIO](https://github.com/GuilhermeSANT29/Projeto-Integrador---IoT)
 
 </td>
 <td width="50%" valign="top">
 
-**🏭 Industrial Monitoring System**
-Gestão de colaboradores, máquinas e sensores com banco de dados e automação.
-`Python` `MySQL` `Automation`
-[→ repositório](https://github.com/GuilhermeSANT29/DataBase/tree/main/projeto%20do%20falabella)
+**🏭 INDUSTRIAL MONITORING SYSTEM**  
+GESTÃO DE COLABORADORES, MÁQUINAS E SENSORES COM BANCO DE DADOS E AUTOMAÇÃO.  
+`PYTHON` `MYSQL` `AUTOMATION`  
+[→ REPOSITÓRIO](https://github.com/GuilhermeSANT29/DataBase/tree/main/projeto%20do%20falabella)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🕵️ Security Monitoring Lab** `EM ANDAMENTO`
-Análise de logs, triagem de eventos e indicadores de segurança.
-`SOC` `Logs` `Detection` `Blue Team`
+**🕵️ SECURITY MONITORING LAB** `EM ANDAMENTO`  
+ANÁLISE DE LOGS, TRIAGEM DE EVENTOS E INDICADORES DE SEGURANÇA.  
+`SOC` `LOGS` `DETECTION` `BLUE TEAM`
 
 </td>
 <td width="50%" valign="top">
 
-**📡 Network Security Lab** `EM ANDAMENTO`
-Análise de tráfego, protocolos e detecção de anomalias em ambiente controlado.
-`TCP/IP` `DNS` `Traffic Analysis`
+**📡 NETWORK SECURITY LAB** `EM ANDAMENTO`  
+ANÁLISE DE TRÁFEGO, PROTOCOLOS E DETECÇÃO DE ANOMALIAS EM AMBIENTE CONTROLADO.  
+`TCP/IP` `DNS` `TRAFFIC ANALYSIS`
 
 </td>
 </tr>
 </table>
 
-## Certificações & Estudos
+---
 
-- Técnico em Cibersistemas para Automação — SENAI 1200h | 2025 - 2026
+## CERTIFICAÇÕES & ESTUDOS
+
+- TÉCNICO EM CIBERSISTEMAS PARA AUTOMAÇÃO — SENAI 1200H | 2025 - 2026
 
 ---
 
-## 📊 GitHub Contributions
+## 📊 GITHUB CONTRIBUTIONS
 
 <div align="center">
 
 <a href="https://github.com/GuilhermeSANT29">
-  <img src="./profile/streak.svg" alt="GitHub Streak" width="70%">
+  <img src="./profile/streak.svg" alt="GITHUB STREAK" width="70%">
 </a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSANT29&bg_color=05060f&color=00e6ff&line=00e6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Guilherme Santos Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSANT29&bg_color=05060f&color=00e6ff&line=00e6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GUILHERME SANTOS CONTRIBUTION GRAPH">
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="./assets/sistema-acessado.svg" alt="Sistema Acessado" width="100%" />
+  <img src="./assets/sistema-acessado.svg" alt="SISTEMA ACESSADO" width="100%" />
 </p>
