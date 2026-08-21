@@ -15,7 +15,7 @@
 
 ---
 
-### `$ cat sobre_mim.txt`
+### `$ cat sobre.txt`
 
 ```bash
 > Técnico em Cibersistemas para Automação — SENAI (Guarulhos, SP)
@@ -28,7 +28,7 @@
 
 ---
 
-## Sobre
+## Resumo
 
 Técnico em Cibersistemas para Automação (SENAI Guarulhos), com foco em **defesa**: monitoramento
 de eventos, análise de logs, segurança de redes e hardening. Complemento a área de segurança com
