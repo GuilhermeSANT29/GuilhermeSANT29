@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub Streak: 308 total contributions, current streak 1 day, longest streak 2 days">
+  <rect width="495" height="195" rx="8" fill="#05060f"/>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="7.5" fill="none" stroke="#00e6ff" stroke-opacity="0.13"/>
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <line x1="165" y1="28" x2="165" y2="167" stroke="#00e6ff" stroke-opacity="0.12"/>
+    <line x1="330" y1="28" x2="330" y2="167" stroke="#00e6ff" stroke-opacity="0.12"/>
+    <text x="82.5" y="82" font-size="30" font-weight="700" fill="#00e6ff">308</text>
+    <text x="82.5" y="108" font-size="14" fill="#7a8fa8">Total Contributions</text>
+    <text x="82.5" y="134" font-size="12" fill="#4a5a7a">Nov 26, 2025 - Present</text>
+    <circle cx="247.5" cy="74" r="39" fill="none" stroke="#00e6ff" stroke-width="5"/>
+    <text x="247.5" y="84" font-size="30" font-weight="700" fill="#00e6ff">1</text>
+    <text x="247.5" y="133" font-size="14" font-weight="700" fill="#00e6ff">Current Streak</text>
+    <text x="247.5" y="153" font-size="12" fill="#4a5a7a">Aug 21</text>
+    <text x="412.5" y="82" font-size="30" font-weight="700" fill="#00e6ff">2</text>
+    <text x="412.5" y="108" font-size="14" fill="#7a8fa8">Longest Streak</text>
+    <text x="412.5" y="134" font-size="12" fill="#4a5a7a">Mar 5 - Mar 6</text>
+  </g>
+</svg>
