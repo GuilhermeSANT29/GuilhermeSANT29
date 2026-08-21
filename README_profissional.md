@@ -48,7 +48,7 @@ metodologia de triagem, detecção e resposta a incidentes.
 | **🌐 Network Security** | TCP/IP · DNS · Wireshark · Nmap · Traffic Analysis |
 | **🗄️ Databases** | MySQL · SQL · Modelagem de dados |
 | **⚙️ Dev & Automação** | Python · REST APIs · Git/GitHub · C# . C++ . CLPs . ESP8266 / IoT |
-| **Infra & OS** | Linux · Windows Server · Cloud Fundamentals |
+| **🖥️ Infra & OS** | Linux · Windows Server · Cloud Fundamentals |
 
 ---
 
