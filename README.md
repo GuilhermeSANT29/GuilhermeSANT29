@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://guilhermesant29.github.io/"><img src="https://img.shields.io/badge/🛡️_PORTFÓLIO-0D1117?style=for-the-badge&logoColor=39FF14" alt="PORTFÓLIO"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/gui-santos05092008/"><img src="https://img.shields.io/badge/🪪_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LINKEDIN"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/gui-santos05092008/"><img src="https://img.shields.io/badge/_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LINKEDIN"></a>&nbsp;
   <a href="mailto:contate.guilherme.santos@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="EMAIL"></a>&nbsp;
   <a href="https://guilhermesant29.github.io/CURRICULO-Guilherme-Santos.pdf"><img src="https://img.shields.io/badge/📜_CURRÍCULO-0D1117?style=for-the-badge&logoColor=39FF14" alt="CURRÍCULO"></a>
 </p>
