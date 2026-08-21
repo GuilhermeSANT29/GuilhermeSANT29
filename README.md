@@ -1,5 +1,6 @@
 <div align="center">
-
+<img src="assets/hero-binary-animated.svg" alt="GUILHERME SANTOS — SANT29 / CYBERSECURITY — Network Security, Blue Team, Automation" width="100%">
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B4332&height=220&section=header&text=GUILHERME%20SANTOS&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Network%20Security%20%7C%20Blue%20Team&descAlignY=58&descSize=18&descColor=E6E6E6"/>
 
 <a href="https://guilhermesant29.github.io/">
