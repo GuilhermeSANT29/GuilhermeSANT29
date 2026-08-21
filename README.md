@@ -5,7 +5,9 @@
 <p><b>Cybersecurity Analyst · SOC / Blue Team · Network Security &amp; Databases</b></p>
 
 <a href="https://guilhermesant29.github.io/"><img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF14"></a>
-<a href="https://www.linkedin.com/in/gui-santos05092008/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+<a href="https://www.linkedin.com/in/gui-santos05092008/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
 <a href="mailto:contate.guilherme.santos@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
 <a href="https://guilhermesant29.github.io/CURRICULO-Guilherme-Santos.pdf"><img src="https://img.shields.io/badge/Currículo-0D1117?style=for-the-badge&logo=readdotcv&logoColor=39FF14"></a>
 
