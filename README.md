@@ -98,7 +98,7 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 ---
 
 ## 📊 GitHub Contributions
-[![streak](https://streak-stats.demolab.com?user=GuilhermeSANT29&theme=dark&background=05060f&border=00e6ff20&stroke=00e6ff20&ring=00e6ff&fire=ff2d78&currStreakNum=00e6ff&sideNums=7a8fa8&currStreakLabel=4a5a7a&sideLabels=4a5a7a&dates=4a5a7a)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeSANT29&theme=dark&background=05060f&border=00e6ff20&stroke=00e6ff20&ring=00e6ff&fire=ff2d78&currStreakNum=00e6ff&sideNums=7a8fa8&currStreakLabel=4a5a7a&sideLabels=4a5a7a&dates=4a5a7a)](https://git.io/streak-stats)
 
 <div align="center">
 
