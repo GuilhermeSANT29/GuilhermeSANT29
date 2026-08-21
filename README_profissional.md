@@ -93,7 +93,7 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 
 ## Certificações & Estudos
 
-- Técnico em Cibersistemas para Automação — SENAI *(em curso)*
+- Técnico em Cibersistemas para Automação — SENAI 1200h | 2025 - 2026
 
 ---
 
