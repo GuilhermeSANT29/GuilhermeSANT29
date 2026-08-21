@@ -1,0 +1,467 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050806"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#39FF14" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#39FF14" stop-opacity="0.55"/>
+      <stop offset="85%" stop-color="#B6FFB0" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="trailMask">
+      <rect x="0" y="0" width="14" height="140" fill="url(#fade)"/>
+    </mask>
+  </defs>
+  <rect x="0" y="0" width="900" height="200" fill="url(#bg)"/>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="2" dy="0">0</tspan><tspan x="2" dy="14">0</tspan><tspan x="2" dy="14">1</tspan><tspan x="2" dy="14">0</tspan><tspan x="2" dy="14">0</tspan><tspan x="2" dy="14">0</tspan><tspan x="2" dy="14">0</tspan><tspan x="2" dy="14">1</tspan><tspan x="2" dy="14">1</tspan><tspan x="2" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -164" to="0 340"
+        dur="3.54s" begin="-3.01s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="18" dy="0">0</tspan><tspan x="18" dy="14">0</tspan><tspan x="18" dy="14">0</tspan><tspan x="18" dy="14">1</tspan><tspan x="18" dy="14">0</tspan><tspan x="18" dy="14">0</tspan><tspan x="18" dy="14">0</tspan><tspan x="18" dy="14">0</tspan><tspan x="18" dy="14">1</tspan><tspan x="18" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -170" to="0 340"
+        dur="3.3s" begin="-1.48s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="34" dy="0">0</tspan><tspan x="34" dy="14">0</tspan><tspan x="34" dy="14">0</tspan><tspan x="34" dy="14">1</tspan><tspan x="34" dy="14">0</tspan><tspan x="34" dy="14">0</tspan><tspan x="34" dy="14">0</tspan><tspan x="34" dy="14">0</tspan><tspan x="34" dy="14">1</tspan><tspan x="34" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -297" to="0 340"
+        dur="3.02s" begin="-2.66s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="50" dy="0">1</tspan><tspan x="50" dy="14">1</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">0</tspan><tspan x="50" dy="14">1</tspan><tspan x="50" dy="14">1</tspan><tspan x="50" dy="14">1</tspan><tspan x="50" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -372" to="0 340"
+        dur="4.85s" begin="-2.59s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="66" dy="0">1</tspan><tspan x="66" dy="14">0</tspan><tspan x="66" dy="14">1</tspan><tspan x="66" dy="14">0</tspan><tspan x="66" dy="14">1</tspan><tspan x="66" dy="14">1</tspan><tspan x="66" dy="14">0</tspan><tspan x="66" dy="14">0</tspan><tspan x="66" dy="14">1</tspan><tspan x="66" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -200" to="0 340"
+        dur="3.44s" begin="-0.07s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="82" dy="0">1</tspan><tspan x="82" dy="14">0</tspan><tspan x="82" dy="14">0</tspan><tspan x="82" dy="14">1</tspan><tspan x="82" dy="14">1</tspan><tspan x="82" dy="14">0</tspan><tspan x="82" dy="14">0</tspan><tspan x="82" dy="14">1</tspan><tspan x="82" dy="14">1</tspan><tspan x="82" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -436" to="0 340"
+        dur="4.62s" begin="-1.87s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="98" dy="0">0</tspan><tspan x="98" dy="14">1</tspan><tspan x="98" dy="14">1</tspan><tspan x="98" dy="14">0</tspan><tspan x="98" dy="14">0</tspan><tspan x="98" dy="14">1</tspan><tspan x="98" dy="14">0</tspan><tspan x="98" dy="14">0</tspan><tspan x="98" dy="14">1</tspan><tspan x="98" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -317" to="0 340"
+        dur="4.68s" begin="-0.53s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="114" dy="0">0</tspan><tspan x="114" dy="14">0</tspan><tspan x="114" dy="14">1</tspan><tspan x="114" dy="14">1</tspan><tspan x="114" dy="14">1</tspan><tspan x="114" dy="14">0</tspan><tspan x="114" dy="14">1</tspan><tspan x="114" dy="14">1</tspan><tspan x="114" dy="14">1</tspan><tspan x="114" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -394" to="0 340"
+        dur="4.74s" begin="-2.85s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="130" dy="0">0</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">1</tspan><tspan x="130" dy="14">0</tspan><tspan x="130" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -258" to="0 340"
+        dur="4.58s" begin="-2.84s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="146" dy="0">1</tspan><tspan x="146" dy="14">1</tspan><tspan x="146" dy="14">0</tspan><tspan x="146" dy="14">0</tspan><tspan x="146" dy="14">1</tspan><tspan x="146" dy="14">1</tspan><tspan x="146" dy="14">1</tspan><tspan x="146" dy="14">1</tspan><tspan x="146" dy="14">1</tspan><tspan x="146" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -413" to="0 340"
+        dur="3.42s" begin="-2.92s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="162" dy="0">0</tspan><tspan x="162" dy="14">0</tspan><tspan x="162" dy="14">1</tspan><tspan x="162" dy="14">0</tspan><tspan x="162" dy="14">0</tspan><tspan x="162" dy="14">1</tspan><tspan x="162" dy="14">0</tspan><tspan x="162" dy="14">0</tspan><tspan x="162" dy="14">0</tspan><tspan x="162" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -237" to="0 340"
+        dur="4.0s" begin="-2.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="178" dy="0">0</tspan><tspan x="178" dy="14">0</tspan><tspan x="178" dy="14">1</tspan><tspan x="178" dy="14">0</tspan><tspan x="178" dy="14">1</tspan><tspan x="178" dy="14">1</tspan><tspan x="178" dy="14">1</tspan><tspan x="178" dy="14">1</tspan><tspan x="178" dy="14">0</tspan><tspan x="178" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -153" to="0 340"
+        dur="4.16s" begin="-0.21s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="194" dy="0">1</tspan><tspan x="194" dy="14">1</tspan><tspan x="194" dy="14">1</tspan><tspan x="194" dy="14">0</tspan><tspan x="194" dy="14">0</tspan><tspan x="194" dy="14">0</tspan><tspan x="194" dy="14">1</tspan><tspan x="194" dy="14">1</tspan><tspan x="194" dy="14">1</tspan><tspan x="194" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -378" to="0 340"
+        dur="5.06s" begin="-0.03s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="210" dy="0">1</tspan><tspan x="210" dy="14">0</tspan><tspan x="210" dy="14">0</tspan><tspan x="210" dy="14">1</tspan><tspan x="210" dy="14">0</tspan><tspan x="210" dy="14">1</tspan><tspan x="210" dy="14">1</tspan><tspan x="210" dy="14">0</tspan><tspan x="210" dy="14">1</tspan><tspan x="210" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -410" to="0 340"
+        dur="4.1s" begin="-3.26s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="226" dy="0">0</tspan><tspan x="226" dy="14">0</tspan><tspan x="226" dy="14">0</tspan><tspan x="226" dy="14">1</tspan><tspan x="226" dy="14">0</tspan><tspan x="226" dy="14">0</tspan><tspan x="226" dy="14">1</tspan><tspan x="226" dy="14">1</tspan><tspan x="226" dy="14">0</tspan><tspan x="226" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -308" to="0 340"
+        dur="4.14s" begin="-0.91s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="242" dy="0">1</tspan><tspan x="242" dy="14">1</tspan><tspan x="242" dy="14">1</tspan><tspan x="242" dy="14">1</tspan><tspan x="242" dy="14">0</tspan><tspan x="242" dy="14">0</tspan><tspan x="242" dy="14">0</tspan><tspan x="242" dy="14">0</tspan><tspan x="242" dy="14">1</tspan><tspan x="242" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -239" to="0 340"
+        dur="4.89s" begin="-2.58s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="258" dy="0">1</tspan><tspan x="258" dy="14">1</tspan><tspan x="258" dy="14">0</tspan><tspan x="258" dy="14">0</tspan><tspan x="258" dy="14">1</tspan><tspan x="258" dy="14">0</tspan><tspan x="258" dy="14">1</tspan><tspan x="258" dy="14">0</tspan><tspan x="258" dy="14">1</tspan><tspan x="258" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -140" to="0 340"
+        dur="3.58s" begin="-1.85s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="274" dy="0">1</tspan><tspan x="274" dy="14">1</tspan><tspan x="274" dy="14">0</tspan><tspan x="274" dy="14">0</tspan><tspan x="274" dy="14">0</tspan><tspan x="274" dy="14">0</tspan><tspan x="274" dy="14">0</tspan><tspan x="274" dy="14">0</tspan><tspan x="274" dy="14">1</tspan><tspan x="274" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -342" to="0 340"
+        dur="2.85s" begin="-0.15s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="290" dy="0">1</tspan><tspan x="290" dy="14">0</tspan><tspan x="290" dy="14">0</tspan><tspan x="290" dy="14">0</tspan><tspan x="290" dy="14">0</tspan><tspan x="290" dy="14">0</tspan><tspan x="290" dy="14">0</tspan><tspan x="290" dy="14">1</tspan><tspan x="290" dy="14">0</tspan><tspan x="290" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -382" to="0 340"
+        dur="4.37s" begin="-1.77s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="306" dy="0">0</tspan><tspan x="306" dy="14">1</tspan><tspan x="306" dy="14">1</tspan><tspan x="306" dy="14">1</tspan><tspan x="306" dy="14">0</tspan><tspan x="306" dy="14">0</tspan><tspan x="306" dy="14">1</tspan><tspan x="306" dy="14">1</tspan><tspan x="306" dy="14">1</tspan><tspan x="306" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -396" to="0 340"
+        dur="2.68s" begin="-2.11s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="322" dy="0">1</tspan><tspan x="322" dy="14">0</tspan><tspan x="322" dy="14">0</tspan><tspan x="322" dy="14">0</tspan><tspan x="322" dy="14">0</tspan><tspan x="322" dy="14">0</tspan><tspan x="322" dy="14">1</tspan><tspan x="322" dy="14">0</tspan><tspan x="322" dy="14">0</tspan><tspan x="322" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -149" to="0 340"
+        dur="4.14s" begin="-1.97s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="338" dy="0">0</tspan><tspan x="338" dy="14">0</tspan><tspan x="338" dy="14">0</tspan><tspan x="338" dy="14">0</tspan><tspan x="338" dy="14">1</tspan><tspan x="338" dy="14">0</tspan><tspan x="338" dy="14">0</tspan><tspan x="338" dy="14">1</tspan><tspan x="338" dy="14">0</tspan><tspan x="338" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -387" to="0 340"
+        dur="4.58s" begin="-2.15s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="354" dy="0">0</tspan><tspan x="354" dy="14">1</tspan><tspan x="354" dy="14">1</tspan><tspan x="354" dy="14">1</tspan><tspan x="354" dy="14">0</tspan><tspan x="354" dy="14">1</tspan><tspan x="354" dy="14">0</tspan><tspan x="354" dy="14">1</tspan><tspan x="354" dy="14">0</tspan><tspan x="354" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -398" to="0 340"
+        dur="3.89s" begin="-1.51s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="370" dy="0">0</tspan><tspan x="370" dy="14">1</tspan><tspan x="370" dy="14">0</tspan><tspan x="370" dy="14">0</tspan><tspan x="370" dy="14">1</tspan><tspan x="370" dy="14">0</tspan><tspan x="370" dy="14">0</tspan><tspan x="370" dy="14">1</tspan><tspan x="370" dy="14">0</tspan><tspan x="370" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -177" to="0 340"
+        dur="2.95s" begin="-1.65s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="386" dy="0">0</tspan><tspan x="386" dy="14">1</tspan><tspan x="386" dy="14">1</tspan><tspan x="386" dy="14">0</tspan><tspan x="386" dy="14">0</tspan><tspan x="386" dy="14">0</tspan><tspan x="386" dy="14">1</tspan><tspan x="386" dy="14">1</tspan><tspan x="386" dy="14">1</tspan><tspan x="386" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -252" to="0 340"
+        dur="5.16s" begin="-0.17s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="402" dy="0">0</tspan><tspan x="402" dy="14">1</tspan><tspan x="402" dy="14">1</tspan><tspan x="402" dy="14">1</tspan><tspan x="402" dy="14">0</tspan><tspan x="402" dy="14">1</tspan><tspan x="402" dy="14">1</tspan><tspan x="402" dy="14">1</tspan><tspan x="402" dy="14">0</tspan><tspan x="402" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -327" to="0 340"
+        dur="3.17s" begin="-2.16s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="418" dy="0">0</tspan><tspan x="418" dy="14">1</tspan><tspan x="418" dy="14">1</tspan><tspan x="418" dy="14">0</tspan><tspan x="418" dy="14">0</tspan><tspan x="418" dy="14">1</tspan><tspan x="418" dy="14">0</tspan><tspan x="418" dy="14">1</tspan><tspan x="418" dy="14">1</tspan><tspan x="418" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -193" to="0 340"
+        dur="5.46s" begin="-1.16s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="434" dy="0">1</tspan><tspan x="434" dy="14">1</tspan><tspan x="434" dy="14">0</tspan><tspan x="434" dy="14">1</tspan><tspan x="434" dy="14">0</tspan><tspan x="434" dy="14">0</tspan><tspan x="434" dy="14">1</tspan><tspan x="434" dy="14">0</tspan><tspan x="434" dy="14">1</tspan><tspan x="434" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -432" to="0 340"
+        dur="3.03s" begin="-0.24s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="450" dy="0">0</tspan><tspan x="450" dy="14">0</tspan><tspan x="450" dy="14">1</tspan><tspan x="450" dy="14">0</tspan><tspan x="450" dy="14">1</tspan><tspan x="450" dy="14">0</tspan><tspan x="450" dy="14">1</tspan><tspan x="450" dy="14">1</tspan><tspan x="450" dy="14">1</tspan><tspan x="450" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -182" to="0 340"
+        dur="4.44s" begin="-0.88s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="466" dy="0">0</tspan><tspan x="466" dy="14">1</tspan><tspan x="466" dy="14">0</tspan><tspan x="466" dy="14">0</tspan><tspan x="466" dy="14">0</tspan><tspan x="466" dy="14">1</tspan><tspan x="466" dy="14">1</tspan><tspan x="466" dy="14">0</tspan><tspan x="466" dy="14">1</tspan><tspan x="466" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -196" to="0 340"
+        dur="2.73s" begin="-0.79s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="482" dy="0">0</tspan><tspan x="482" dy="14">1</tspan><tspan x="482" dy="14">0</tspan><tspan x="482" dy="14">0</tspan><tspan x="482" dy="14">0</tspan><tspan x="482" dy="14">0</tspan><tspan x="482" dy="14">1</tspan><tspan x="482" dy="14">0</tspan><tspan x="482" dy="14">1</tspan><tspan x="482" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -317" to="0 340"
+        dur="4.05s" begin="-3.33s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="498" dy="0">1</tspan><tspan x="498" dy="14">1</tspan><tspan x="498" dy="14">0</tspan><tspan x="498" dy="14">0</tspan><tspan x="498" dy="14">1</tspan><tspan x="498" dy="14">0</tspan><tspan x="498" dy="14">0</tspan><tspan x="498" dy="14">1</tspan><tspan x="498" dy="14">1</tspan><tspan x="498" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -393" to="0 340"
+        dur="4.51s" begin="-1.58s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="514" dy="0">1</tspan><tspan x="514" dy="14">0</tspan><tspan x="514" dy="14">0</tspan><tspan x="514" dy="14">0</tspan><tspan x="514" dy="14">1</tspan><tspan x="514" dy="14">1</tspan><tspan x="514" dy="14">0</tspan><tspan x="514" dy="14">1</tspan><tspan x="514" dy="14">0</tspan><tspan x="514" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -270" to="0 340"
+        dur="5.03s" begin="-4.96s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="530" dy="0">1</tspan><tspan x="530" dy="14">1</tspan><tspan x="530" dy="14">1</tspan><tspan x="530" dy="14">1</tspan><tspan x="530" dy="14">0</tspan><tspan x="530" dy="14">0</tspan><tspan x="530" dy="14">1</tspan><tspan x="530" dy="14">0</tspan><tspan x="530" dy="14">1</tspan><tspan x="530" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -141" to="0 340"
+        dur="3.14s" begin="-2.3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="546" dy="0">1</tspan><tspan x="546" dy="14">0</tspan><tspan x="546" dy="14">0</tspan><tspan x="546" dy="14">0</tspan><tspan x="546" dy="14">0</tspan><tspan x="546" dy="14">1</tspan><tspan x="546" dy="14">0</tspan><tspan x="546" dy="14">0</tspan><tspan x="546" dy="14">1</tspan><tspan x="546" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -383" to="0 340"
+        dur="2.6s" begin="-1.61s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="562" dy="0">0</tspan><tspan x="562" dy="14">0</tspan><tspan x="562" dy="14">1</tspan><tspan x="562" dy="14">1</tspan><tspan x="562" dy="14">1</tspan><tspan x="562" dy="14">0</tspan><tspan x="562" dy="14">1</tspan><tspan x="562" dy="14">0</tspan><tspan x="562" dy="14">0</tspan><tspan x="562" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -259" to="0 340"
+        dur="3.74s" begin="-2.62s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="578" dy="0">0</tspan><tspan x="578" dy="14">0</tspan><tspan x="578" dy="14">0</tspan><tspan x="578" dy="14">0</tspan><tspan x="578" dy="14">0</tspan><tspan x="578" dy="14">0</tspan><tspan x="578" dy="14">1</tspan><tspan x="578" dy="14">0</tspan><tspan x="578" dy="14">1</tspan><tspan x="578" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -211" to="0 340"
+        dur="4.73s" begin="-0.89s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="594" dy="0">0</tspan><tspan x="594" dy="14">1</tspan><tspan x="594" dy="14">1</tspan><tspan x="594" dy="14">0</tspan><tspan x="594" dy="14">1</tspan><tspan x="594" dy="14">0</tspan><tspan x="594" dy="14">0</tspan><tspan x="594" dy="14">0</tspan><tspan x="594" dy="14">1</tspan><tspan x="594" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -412" to="0 340"
+        dur="4.22s" begin="-1.57s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="610" dy="0">0</tspan><tspan x="610" dy="14">0</tspan><tspan x="610" dy="14">1</tspan><tspan x="610" dy="14">1</tspan><tspan x="610" dy="14">1</tspan><tspan x="610" dy="14">0</tspan><tspan x="610" dy="14">1</tspan><tspan x="610" dy="14">1</tspan><tspan x="610" dy="14">0</tspan><tspan x="610" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -260" to="0 340"
+        dur="4.95s" begin="-0.76s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="626" dy="0">1</tspan><tspan x="626" dy="14">0</tspan><tspan x="626" dy="14">0</tspan><tspan x="626" dy="14">1</tspan><tspan x="626" dy="14">0</tspan><tspan x="626" dy="14">1</tspan><tspan x="626" dy="14">1</tspan><tspan x="626" dy="14">0</tspan><tspan x="626" dy="14">0</tspan><tspan x="626" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -270" to="0 340"
+        dur="2.82s" begin="-2.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="642" dy="0">1</tspan><tspan x="642" dy="14">1</tspan><tspan x="642" dy="14">0</tspan><tspan x="642" dy="14">0</tspan><tspan x="642" dy="14">1</tspan><tspan x="642" dy="14">0</tspan><tspan x="642" dy="14">1</tspan><tspan x="642" dy="14">0</tspan><tspan x="642" dy="14">1</tspan><tspan x="642" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -377" to="0 340"
+        dur="3.44s" begin="-1.66s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="658" dy="0">1</tspan><tspan x="658" dy="14">1</tspan><tspan x="658" dy="14">0</tspan><tspan x="658" dy="14">0</tspan><tspan x="658" dy="14">0</tspan><tspan x="658" dy="14">0</tspan><tspan x="658" dy="14">0</tspan><tspan x="658" dy="14">1</tspan><tspan x="658" dy="14">1</tspan><tspan x="658" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -370" to="0 340"
+        dur="2.82s" begin="-1.39s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="674" dy="0">0</tspan><tspan x="674" dy="14">1</tspan><tspan x="674" dy="14">0</tspan><tspan x="674" dy="14">1</tspan><tspan x="674" dy="14">1</tspan><tspan x="674" dy="14">1</tspan><tspan x="674" dy="14">0</tspan><tspan x="674" dy="14">0</tspan><tspan x="674" dy="14">0</tspan><tspan x="674" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -283" to="0 340"
+        dur="4.35s" begin="-1.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="690" dy="0">1</tspan><tspan x="690" dy="14">1</tspan><tspan x="690" dy="14">1</tspan><tspan x="690" dy="14">1</tspan><tspan x="690" dy="14">0</tspan><tspan x="690" dy="14">1</tspan><tspan x="690" dy="14">0</tspan><tspan x="690" dy="14">1</tspan><tspan x="690" dy="14">1</tspan><tspan x="690" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -212" to="0 340"
+        dur="4.58s" begin="-2.72s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="706" dy="0">1</tspan><tspan x="706" dy="14">1</tspan><tspan x="706" dy="14">1</tspan><tspan x="706" dy="14">0</tspan><tspan x="706" dy="14">1</tspan><tspan x="706" dy="14">1</tspan><tspan x="706" dy="14">0</tspan><tspan x="706" dy="14">1</tspan><tspan x="706" dy="14">1</tspan><tspan x="706" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -146" to="0 340"
+        dur="2.95s" begin="-0.22s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="722" dy="0">1</tspan><tspan x="722" dy="14">0</tspan><tspan x="722" dy="14">0</tspan><tspan x="722" dy="14">1</tspan><tspan x="722" dy="14">1</tspan><tspan x="722" dy="14">1</tspan><tspan x="722" dy="14">0</tspan><tspan x="722" dy="14">1</tspan><tspan x="722" dy="14">1</tspan><tspan x="722" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -166" to="0 340"
+        dur="5.08s" begin="-3.65s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="738" dy="0">0</tspan><tspan x="738" dy="14">0</tspan><tspan x="738" dy="14">0</tspan><tspan x="738" dy="14">1</tspan><tspan x="738" dy="14">1</tspan><tspan x="738" dy="14">0</tspan><tspan x="738" dy="14">1</tspan><tspan x="738" dy="14">1</tspan><tspan x="738" dy="14">0</tspan><tspan x="738" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -423" to="0 340"
+        dur="4.95s" begin="-1.83s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="754" dy="0">1</tspan><tspan x="754" dy="14">1</tspan><tspan x="754" dy="14">1</tspan><tspan x="754" dy="14">1</tspan><tspan x="754" dy="14">0</tspan><tspan x="754" dy="14">1</tspan><tspan x="754" dy="14">1</tspan><tspan x="754" dy="14">1</tspan><tspan x="754" dy="14">0</tspan><tspan x="754" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -284" to="0 340"
+        dur="3.1s" begin="-1.81s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="770" dy="0">1</tspan><tspan x="770" dy="14">0</tspan><tspan x="770" dy="14">1</tspan><tspan x="770" dy="14">1</tspan><tspan x="770" dy="14">1</tspan><tspan x="770" dy="14">1</tspan><tspan x="770" dy="14">0</tspan><tspan x="770" dy="14">0</tspan><tspan x="770" dy="14">0</tspan><tspan x="770" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -396" to="0 340"
+        dur="4.47s" begin="-4.13s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="786" dy="0">0</tspan><tspan x="786" dy="14">1</tspan><tspan x="786" dy="14">1</tspan><tspan x="786" dy="14">0</tspan><tspan x="786" dy="14">0</tspan><tspan x="786" dy="14">1</tspan><tspan x="786" dy="14">1</tspan><tspan x="786" dy="14">1</tspan><tspan x="786" dy="14">0</tspan><tspan x="786" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -303" to="0 340"
+        dur="3.11s" begin="-1.38s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="802" dy="0">1</tspan><tspan x="802" dy="14">1</tspan><tspan x="802" dy="14">0</tspan><tspan x="802" dy="14">0</tspan><tspan x="802" dy="14">0</tspan><tspan x="802" dy="14">1</tspan><tspan x="802" dy="14">0</tspan><tspan x="802" dy="14">1</tspan><tspan x="802" dy="14">1</tspan><tspan x="802" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -395" to="0 340"
+        dur="3.38s" begin="-0.84s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="818" dy="0">0</tspan><tspan x="818" dy="14">0</tspan><tspan x="818" dy="14">1</tspan><tspan x="818" dy="14">1</tspan><tspan x="818" dy="14">1</tspan><tspan x="818" dy="14">0</tspan><tspan x="818" dy="14">0</tspan><tspan x="818" dy="14">1</tspan><tspan x="818" dy="14">1</tspan><tspan x="818" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -151" to="0 340"
+        dur="3.85s" begin="-2.65s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="834" dy="0">0</tspan><tspan x="834" dy="14">0</tspan><tspan x="834" dy="14">1</tspan><tspan x="834" dy="14">0</tspan><tspan x="834" dy="14">0</tspan><tspan x="834" dy="14">0</tspan><tspan x="834" dy="14">0</tspan><tspan x="834" dy="14">0</tspan><tspan x="834" dy="14">0</tspan><tspan x="834" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -219" to="0 340"
+        dur="3.32s" begin="-2.96s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="850" dy="0">1</tspan><tspan x="850" dy="14">0</tspan><tspan x="850" dy="14">0</tspan><tspan x="850" dy="14">0</tspan><tspan x="850" dy="14">1</tspan><tspan x="850" dy="14">0</tspan><tspan x="850" dy="14">1</tspan><tspan x="850" dy="14">1</tspan><tspan x="850" dy="14">0</tspan><tspan x="850" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -410" to="0 340"
+        dur="5.39s" begin="-2.01s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="866" dy="0">1</tspan><tspan x="866" dy="14">1</tspan><tspan x="866" dy="14">0</tspan><tspan x="866" dy="14">1</tspan><tspan x="866" dy="14">0</tspan><tspan x="866" dy="14">0</tspan><tspan x="866" dy="14">0</tspan><tspan x="866" dy="14">1</tspan><tspan x="866" dy="14">1</tspan><tspan x="866" dy="14">0</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -375" to="0 340"
+        dur="2.63s" begin="-1.84s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g mask="url(#trailMask)">
+    <text font-family="Fira Code, Consolas, monospace" font-size="14" fill="#39FF14">
+      <tspan x="882" dy="0">0</tspan><tspan x="882" dy="14">1</tspan><tspan x="882" dy="14">0</tspan><tspan x="882" dy="14">1</tspan><tspan x="882" dy="14">1</tspan><tspan x="882" dy="14">0</tspan><tspan x="882" dy="14">1</tspan><tspan x="882" dy="14">0</tspan><tspan x="882" dy="14">1</tspan><tspan x="882" dy="14">1</tspan>
+      <animateTransform attributeName="transform" type="translate"
+        from="0 -355" to="0 340"
+        dur="2.66s" begin="-1.33s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="0" y="0" width="900" height="200" fill="#0D1117" fill-opacity="0.06"/>
+</svg>

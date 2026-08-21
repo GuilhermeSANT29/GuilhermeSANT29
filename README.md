@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B4332&height=220&section=header&text=SANT29&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Network%20Security%20%7C%20Blue%20Team&descAlignY=58&descSize=18&descColor=E6E6E6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B4332&height=220&section=header&text=GUILHERME%20SANTOS&fontSize=42&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Network%20Security%20%7C%20Blue%20Team&descAlignY=58&descSize=18&descColor=E6E6E6"/>
 
 <a href="https://guilhermesant29.github.io/">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=root%40sant29%3A~%23+whoami;Cybersecurity+Analyst+%7C+SOC+%7C+Blue+Team;Network+Security+%2B+Database+Specialist;Python+%7C+SQL+%7C+Linux+%7C+Automation;Open+to+Work+%E2%80%94+Est%C3%A1gio+%2F+Ju%CC%81nior" />
@@ -19,6 +19,8 @@
 [![Portfólio](https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF14)](https://guilhermesant29.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gui-santos05092008/)
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contate.guilherme.santos@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5511961778262)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/Sant_winner/)
 [![Currículo](https://img.shields.io/badge/CURRÍCULO-000000?style=for-the-badge&logo=readdotcv&logoColor=39FF14)](https://guilhermesant29.github.io/CURRICULO-Guilherme-Santos.pdf)
 
 </div>
@@ -122,29 +124,13 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 
 ---
 
-### `$ uptime --stats`
+### `$ ./decode --binary`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSANT29&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=E6E6E6"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSANT29&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=8A8A8A"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSANT29&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E6E6E6"/>
-
+<img src="./assets/matrix-rain.svg" width="100%" alt="binary rain animation"/>
 </div>
 
 ---
-
-### `$ cat contato.log`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/contate.guilherme.santos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contate.guilherme.santos@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511961778262)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-santos05092008/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Sant_winner/)
-
-</div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=GuilhermeSANT29&label=PROFILE+VIEWS&color=39FF14&style=flat&labelColor=0D1117"/>
