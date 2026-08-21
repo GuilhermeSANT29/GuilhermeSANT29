@@ -101,11 +101,11 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=GuilhermeSANT29&type=png" alt="GitHub Streak">
+| | |
+|:---:|:---:|
+| ![stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSANT29&show_icons=true&bg_color=05060f&border_color=00e6ff20&title_color=00e6ff&icon_color=ff2d78&text_color=7a8fa8&include_all_commits=true&rank_icon=github&custom_title=STATS) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSANT29&layout=compact&bg_color=05060f&border_color=00e6ff20&title_color=00e6ff&text_color=7a8fa8&langs_count=5&custom_title=LANGUAGES) |
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSANT29&bg_color=05060f&color=00e6ff&line=00e6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph">
+[![streak](https://streak-stats.demolab.com?user=GuilhermeSANT29&theme=dark&background=05060f&border=00e6ff20&stroke=00e6ff20&ring=00e6ff&fire=ff2d78&currStreakNum=00e6ff&sideNums=7a8fa8&currStreakLabel=4a5a7a&sideLabels=4a5a7a&dates=4a5a7a)](https://git.io/streak-stats)
 
 </div>
 ---
