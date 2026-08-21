@@ -37,7 +37,7 @@
     <text x="12" y="288" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.33"> 01011001<animate attributeName="opacity" values="0.33;0.95;0.33" dur="4.2s" begin="4.13s" repeatCount="indefinite"/></text>
     <text x="12" y="332" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.69">xport def<animate attributeName="opacity" values="0.69;0.95;0.69" dur="3.0s" begin="1.12s" repeatCount="indefinite"/></text>
     <text x="12" y="376" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.41">commit -m<animate attributeName="opacity" values="0.41;0.95;0.41" dur="5.01s" begin="4.74s" repeatCount="indefinite"/></text>
-    <text x="12" y="420" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.12"> i=0;i&lt<animate attributeName="opacity" values="0.12;0.36;0.12" dur="4.81s" begin="1.98s" repeatCount="indefinite"/></text>
+    <text x="12" y="420" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.12"> i=0;i&lt;<animate attributeName="opacity" values="0.12;0.36;0.12" dur="4.81s" begin="1.98s" repeatCount="indefinite"/></text>
     <text x="12" y="464" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.48">document.<animate attributeName="opacity" values="0.48;0.95;0.48" dur="6.41s" begin="0.23s" repeatCount="indefinite"/></text>
     <text x="12" y="508" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.19">l -X POST<animate attributeName="opacity" values="0.19;0.57;0.19" dur="5.93s" begin="1.45s" repeatCount="indefinite"/></text>
     <text x="12" y="552" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.55">user = aw<animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.08s" begin="0.59s" repeatCount="indefinite"/></text>
@@ -89,7 +89,7 @@
     <text x="196" y="140" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.41">00 010110<animate attributeName="opacity" values="0.41;0.95;0.41" dur="6.1s" begin="3.9s" repeatCount="indefinite"/></text>
     <text x="196" y="184" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.12">fault asy<animate attributeName="opacity" values="0.12;0.36;0.12" dur="6.0s" begin="3.99s" repeatCount="indefinite"/></text>
     <text x="196" y="228" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.48">t commit <animate attributeName="opacity" values="0.48;0.95;0.48" dur="4.07s" begin="1.99s" repeatCount="indefinite"/></text>
-    <text x="196" y="272" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.19">et i=0;i&<animate attributeName="opacity" values="0.19;0.57;0.19" dur="2.91s" begin="3.17s" repeatCount="indefinite"/></text>
+    <text x="196" y="272" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.19">et i=0;i&amp;<animate attributeName="opacity" values="0.19;0.57;0.19" dur="2.91s" begin="3.17s" repeatCount="indefinite"/></text>
     <text x="196" y="316" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.55">.querySel<animate attributeName="opacity" values="0.55;0.95;0.55" dur="2.75s" begin="0.34s" repeatCount="indefinite"/></text>
     <text x="196" y="360" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.26">url -X PO<animate attributeName="opacity" values="0.26;0.78;0.26" dur="3.34s" begin="0.81s" repeatCount="indefinite"/></text>
     <text x="196" y="404" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.62">t user = <animate attributeName="opacity" values="0.62;0.95;0.62" dur="3.86s" begin="0.26s" repeatCount="indefinite"/></text>
@@ -128,7 +128,7 @@
     <text x="288" y="618" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.26">fault asy<animate attributeName="opacity" values="0.26;0.78;0.26" dur="5.0s" begin="4.5s" repeatCount="indefinite"/></text>
     <text x="334" y="63" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.33">export de<animate attributeName="opacity" values="0.33;0.95;0.33" dur="5.86s" begin="2.4s" repeatCount="indefinite"/></text>
     <text x="334" y="107" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.69"> commit -<animate attributeName="opacity" values="0.69;0.95;0.69" dur="5.11s" begin="4.0s" repeatCount="indefinite"/></text>
-    <text x="334" y="151" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.41">t i=0;i&l<animate attributeName="opacity" values="0.41;0.95;0.41" dur="2.84s" begin="3.3s" repeatCount="indefinite"/></text>
+    <text x="334" y="151" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.41">t i=0;i&amp;l<animate attributeName="opacity" values="0.41;0.95;0.41" dur="2.84s" begin="3.3s" repeatCount="indefinite"/></text>
     <text x="334" y="195" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.12">querySele<animate attributeName="opacity" values="0.12;0.36;0.12" dur="6.14s" begin="3.91s" repeatCount="indefinite"/></text>
     <text x="334" y="239" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.48">rl -X POS<animate attributeName="opacity" values="0.48;0.95;0.48" dur="5.5s" begin="2.39s" repeatCount="indefinite"/></text>
     <text x="334" y="283" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.19"> user = a<animate attributeName="opacity" values="0.19;0.57;0.19" dur="3.21s" begin="3.95s" repeatCount="indefinite"/></text>
@@ -166,7 +166,7 @@
     <text x="426" y="453" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.12">0 0101100<animate attributeName="opacity" values="0.12;0.36;0.12" dur="5.59s" begin="2.54s" repeatCount="indefinite"/></text>
     <text x="426" y="497" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.48">export de<animate attributeName="opacity" values="0.48;0.95;0.48" dur="4.75s" begin="3.8s" repeatCount="indefinite"/></text>
     <text x="426" y="541" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.19"> commit -<animate attributeName="opacity" values="0.19;0.57;0.19" dur="6.15s" begin="2.22s" repeatCount="indefinite"/></text>
-    <text x="426" y="585" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.55">t i=0;i&l<animate attributeName="opacity" values="0.55;0.95;0.55" dur="4.95s" begin="2.53s" repeatCount="indefinite"/></text>
+    <text x="426" y="585" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.55">t i=0;i&amp;l<animate attributeName="opacity" values="0.55;0.95;0.55" dur="4.95s" begin="2.53s" repeatCount="indefinite"/></text>
     <text x="426" y="629" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.26">querySele<animate attributeName="opacity" values="0.26;0.78;0.26" dur="4.55s" begin="3.46s" repeatCount="indefinite"/></text>
     <text x="472" y="34" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.33">document.<animate attributeName="opacity" values="0.33;0.95;0.33" dur="4.31s" begin="2.67s" repeatCount="indefinite"/></text>
     <text x="472" y="78" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.69">l -X POST<animate attributeName="opacity" values="0.69;0.95;0.69" dur="4.41s" begin="4.71s" repeatCount="indefinite"/></text>
@@ -205,7 +205,7 @@
     <text x="564" y="292" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.33"> 01011001<animate attributeName="opacity" values="0.33;0.95;0.33" dur="2.79s" begin="4.69s" repeatCount="indefinite"/></text>
     <text x="564" y="336" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.69">xport def<animate attributeName="opacity" values="0.69;0.95;0.69" dur="5.04s" begin="4.01s" repeatCount="indefinite"/></text>
     <text x="564" y="380" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.41">commit -m<animate attributeName="opacity" values="0.41;0.95;0.41" dur="2.83s" begin="4.28s" repeatCount="indefinite"/></text>
-    <text x="564" y="424" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.12"> i=0;i&lt<animate attributeName="opacity" values="0.12;0.36;0.12" dur="2.77s" begin="4.31s" repeatCount="indefinite"/></text>
+    <text x="564" y="424" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.12"> i=0;i&lt;<animate attributeName="opacity" values="0.12;0.36;0.12" dur="2.77s" begin="4.31s" repeatCount="indefinite"/></text>
     <text x="564" y="468" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.48">document.<animate attributeName="opacity" values="0.48;0.95;0.48" dur="4.32s" begin="1.7s" repeatCount="indefinite"/></text>
     <text x="564" y="512" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.19">l -X POST<animate attributeName="opacity" values="0.19;0.57;0.19" dur="4.71s" begin="4.63s" repeatCount="indefinite"/></text>
     <text x="564" y="556" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.55">user = aw<animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.57s" begin="0.65s" repeatCount="indefinite"/></text>
@@ -257,7 +257,7 @@
     <text x="748" y="144" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.41">00 010110<animate attributeName="opacity" values="0.41;0.95;0.41" dur="5.44s" begin="4.06s" repeatCount="indefinite"/></text>
     <text x="748" y="188" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.12">fault asy<animate attributeName="opacity" values="0.12;0.36;0.12" dur="3.06s" begin="2.62s" repeatCount="indefinite"/></text>
     <text x="748" y="232" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.48">t commit <animate attributeName="opacity" values="0.48;0.95;0.48" dur="4.52s" begin="4.17s" repeatCount="indefinite"/></text>
-    <text x="748" y="276" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.19">et i=0;i&<animate attributeName="opacity" values="0.19;0.57;0.19" dur="5.72s" begin="4.13s" repeatCount="indefinite"/></text>
+    <text x="748" y="276" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.19">et i=0;i&amp;<animate attributeName="opacity" values="0.19;0.57;0.19" dur="5.72s" begin="4.13s" repeatCount="indefinite"/></text>
     <text x="748" y="320" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.55">.querySel<animate attributeName="opacity" values="0.55;0.95;0.55" dur="4.84s" begin="4.46s" repeatCount="indefinite"/></text>
     <text x="748" y="364" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.26">url -X PO<animate attributeName="opacity" values="0.26;0.78;0.26" dur="5.23s" begin="3.47s" repeatCount="indefinite"/></text>
     <text x="748" y="408" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.62">t user = <animate attributeName="opacity" values="0.62;0.95;0.62" dur="3.42s" begin="0.16s" repeatCount="indefinite"/></text>
@@ -296,7 +296,7 @@
     <text x="840" y="622" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.26">fault asy<animate attributeName="opacity" values="0.26;0.78;0.26" dur="6.31s" begin="0.66s" repeatCount="indefinite"/></text>
     <text x="886" y="27" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.33">export de<animate attributeName="opacity" values="0.33;0.95;0.33" dur="5.78s" begin="2.54s" repeatCount="indefinite"/></text>
     <text x="886" y="71" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.69"> commit -<animate attributeName="opacity" values="0.69;0.95;0.69" dur="6.05s" begin="3.52s" repeatCount="indefinite"/></text>
-    <text x="886" y="115" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.41">t i=0;i&l<animate attributeName="opacity" values="0.41;0.95;0.41" dur="3.43s" begin="4.49s" repeatCount="indefinite"/></text>
+    <text x="886" y="115" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.41">t i=0;i&amp;l<animate attributeName="opacity" values="0.41;0.95;0.41" dur="3.43s" begin="4.49s" repeatCount="indefinite"/></text>
     <text x="886" y="159" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.12">querySele<animate attributeName="opacity" values="0.12;0.36;0.12" dur="4.44s" begin="0.12s" repeatCount="indefinite"/></text>
     <text x="886" y="203" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.48">rl -X POS<animate attributeName="opacity" values="0.48;0.95;0.48" dur="2.51s" begin="2.46s" repeatCount="indefinite"/></text>
     <text x="886" y="247" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.19"> user = a<animate attributeName="opacity" values="0.19;0.57;0.19" dur="4.3s" begin="1.51s" repeatCount="indefinite"/></text>
@@ -334,7 +334,7 @@
     <text x="978" y="457" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.12">0 0101100<animate attributeName="opacity" values="0.12;0.36;0.12" dur="6.13s" begin="4.98s" repeatCount="indefinite"/></text>
     <text x="978" y="501" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.48">export de<animate attributeName="opacity" values="0.48;0.95;0.48" dur="4.3s" begin="0.7s" repeatCount="indefinite"/></text>
     <text x="978" y="545" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.19"> commit -<animate attributeName="opacity" values="0.19;0.57;0.19" dur="3.27s" begin="0.45s" repeatCount="indefinite"/></text>
-    <text x="978" y="589" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.55">t i=0;i&l<animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.87s" begin="0.46s" repeatCount="indefinite"/></text>
+    <text x="978" y="589" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.55">t i=0;i&amp;l<animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.87s" begin="0.46s" repeatCount="indefinite"/></text>
     <text x="978" y="633" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.26">querySele<animate attributeName="opacity" values="0.26;0.78;0.26" dur="3.46s" begin="1.29s" repeatCount="indefinite"/></text>
     <text x="1024" y="38" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.33">document.<animate attributeName="opacity" values="0.33;0.95;0.33" dur="4.78s" begin="4.44s" repeatCount="indefinite"/></text>
     <text x="1024" y="82" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.69">l -X POST<animate attributeName="opacity" values="0.69;0.95;0.69" dur="5.5s" begin="2.06s" repeatCount="indefinite"/></text>
@@ -373,7 +373,7 @@
     <text x="1116" y="296" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.33"> 01011001<animate attributeName="opacity" values="0.33;0.95;0.33" dur="6.04s" begin="2.38s" repeatCount="indefinite"/></text>
     <text x="1116" y="340" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.69">xport def<animate attributeName="opacity" values="0.69;0.95;0.69" dur="3.44s" begin="1.24s" repeatCount="indefinite"/></text>
     <text x="1116" y="384" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.41">commit -m<animate attributeName="opacity" values="0.41;0.95;0.41" dur="6.34s" begin="3.52s" repeatCount="indefinite"/></text>
-    <text x="1116" y="428" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.12"> i=0;i&lt<animate attributeName="opacity" values="0.12;0.36;0.12" dur="3.73s" begin="0.11s" repeatCount="indefinite"/></text>
+    <text x="1116" y="428" fill="#38bdf8" font-family="monospace" font-size="13" opacity="0.12"> i=0;i&lt;<animate attributeName="opacity" values="0.12;0.36;0.12" dur="3.73s" begin="0.11s" repeatCount="indefinite"/></text>
     <text x="1116" y="472" fill="#e879f9" font-family="monospace" font-size="13" opacity="0.48">document.<animate attributeName="opacity" values="0.48;0.95;0.48" dur="4.49s" begin="3.37s" repeatCount="indefinite"/></text>
     <text x="1116" y="516" fill="#94a3b8" font-family="monospace" font-size="13" opacity="0.19">l -X POST<animate attributeName="opacity" values="0.19;0.57;0.19" dur="4.18s" begin="1.29s" repeatCount="indefinite"/></text>
     <text x="1116" y="560" fill="#4ade80" font-family="monospace" font-size="13" opacity="0.55">user = aw<animate attributeName="opacity" values="0.55;0.95;0.55" dur="5.17s" begin="4.63s" repeatCount="indefinite"/></text>
