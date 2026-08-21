@@ -17,7 +17,7 @@
   Guilherme Santos =
   idade: 18
   SENAI CT: "Ciberisistemas para automação de software e hardware", 
-  especialidade: Industria IoT, Gestão de Banco de dados, Cibersegurança e programador
+  especialidade: Gestão de Banco de dados, Cibersegurança e Back-EnD
   localizacao: "Guaruhos, SP"
 ```
 
