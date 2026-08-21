@@ -3,7 +3,6 @@
 
 <h1>Guilherme Santos</h1>
 <p><b>Cybersecurity Analyst · SOC / Blue Team · Network Security &amp; Databases</b></p>
-<p>Guarulhos, SP · PT-BR nativo · EN B1 · ES A2 · Aberto a estágio e vagas júnior</p>
 
 <a href="https://guilhermesant29.github.io/"><img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF14"></a>
 <a href="https://www.linkedin.com/in/gui-santos05092008/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
@@ -11,6 +10,21 @@
 <a href="https://guilhermesant29.github.io/CURRICULO-Guilherme-Santos.pdf"><img src="https://img.shields.io/badge/Currículo-0D1117?style=for-the-badge&logo=readdotcv&logoColor=39FF14"></a>
 
 </div>
+
+---
+
+---
+
+### `$ cat sobre_mim.txt`
+
+```bash
+> Técnico em Cibersistemas para Automação — SENAI (Guarulhos, SP)
+> Especialidade: Network Security · Blue Team · Databases · Backend
+> Stack de defesa: SOC / Triagem · Análise de Logs · Threat Detection · Hardening
+> Stack técnica: Python · SQL/MySQL · Linux · Windows Server · TCP/IP
+> Idiomas: PT-BR (nativo) · EN (B1) · ES (A2)
+> Status: aberto a estágio e vagas júnior em Cybersecurity / SOC / Blue Team
+```
 
 ---
 
