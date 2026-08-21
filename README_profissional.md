@@ -40,14 +40,42 @@ metodologia de triagem, detecção e resposta a incidentes.
 
 ## Projetos
 
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| **[IoT Monitoring System](https://github.com/GuilhermeSANT29/Projeto-Integrador---IoT)** | Coleta de sensores via ESP8266, exposição por API REST e persistência em MySQL com relatórios automáticos. | ESP8266 · Python · REST · MySQL |
-| **[Industrial Monitoring System](https://github.com/GuilhermeSANT29/DataBase/tree/main/projeto%20do%20falabella)** | Modelagem e gestão de colaboradores, máquinas e sensores com rotinas automatizadas de consulta. | Python · MySQL · Automation |
-| **Security Monitoring Lab** *(em andamento)* | Pipeline de ingestão e triagem de logs com regras de detecção e documentação de casos. | SOC · Logs · Detection |
-| **Network Security Lab** *(em andamento)* | Captura e análise de tráfego, baseline de protocolos e detecção de anomalias em ambiente controlado. | TCP/IP · DNS · Wireshark |
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
----
+**🔌 IoT Monitoring System**
+Monitoramento com ESP8266 + API REST + MySQL + Google Sheets.
+`ESP8266` `REST API` `Python` `MySQL`
+[→ repositório](https://github.com/GuilhermeSANT29/Projeto-Integrador---IoT)
+
+</td>
+<td width="50%" valign="top">
+
+**🏭 Industrial Monitoring System**
+Gestão de colaboradores, máquinas e sensores com banco de dados e automação.
+`Python` `MySQL` `Automation`
+[→ repositório](https://github.com/GuilhermeSANT29/DataBase/tree/main/projeto%20do%20falabella)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🕵️ Security Monitoring Lab** `EM ANDAMENTO`
+Análise de logs, triagem de eventos e indicadores de segurança.
+`SOC` `Logs` `Detection` `Blue Team`
+
+</td>
+<td width="50%" valign="top">
+
+**📡 Network Security Lab** `EM ANDAMENTO`
+Análise de tráfego, protocolos e detecção de anomalias em ambiente controlado.
+`TCP/IP` `DNS` `Traffic Analysis`
+
+</td>
+</tr>
+</table>
 
 ## Certificações & Estudos
 
