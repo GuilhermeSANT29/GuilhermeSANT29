@@ -2,7 +2,7 @@
 <img src="assets/hero-binary-animated.svg" alt="Guilherme Santos — Cybersecurity: Network Security, Blue Team e Automação" width="100%">
 
 <h1>Guilherme Santos</h1>
-<p><b>Cybersecurity Analyst (em formação) · SOC / Blue Team · Network Security &amp; Databases</b></p>
+<p><b>Cybersecurity Analyst · SOC / Blue Team · Network Security &amp; Databases</b></p>
 <p>Guarulhos, SP · PT-BR nativo · EN B1 · ES A2 · Aberto a estágio e vagas júnior</p>
 
 <a href="https://guilhermesant29.github.io/"><img src="https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF14"></a>
