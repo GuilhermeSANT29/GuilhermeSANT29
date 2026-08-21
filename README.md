@@ -123,13 +123,5 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 </table>
 
 ---
-
-### `$ ./decode --binary`
-
-<div align="center">
-<img src="./assets/matrix-rain.svg" width="100%" alt="binary rain animation"/>
-</div>
-
----
 <div align="center"> <img src="./assets/matrix-rain.svg" width="100%" alt="binary rain animation"/> </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:0D1117&height=100&section=footer"/>
