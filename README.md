@@ -98,11 +98,14 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 ---
 
 ## 📊 GitHub Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeSANT29&theme=dark&background=05060f&border=00e6ff20&stroke=00e6ff20&ring=00e6ff&fire=ff2d78&currStreakNum=00e6ff&sideNums=7a8fa8&currStreakLabel=4a5a7a&sideLabels=4a5a7a&dates=4a5a7a)](https://git.io/streak-stats)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSANT29&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%">
+<img src="https://streak-stats.demolab.com?user=GuilhermeSANT29&theme=dark&background=05060f&border=00e6ff20&stroke=00e6ff20&ring=00e6ff&fire=ff2d78&currStreakNum=00e6ff&sideNums=7a8fa8&currStreakLabel=4a5a7a&sideLabels=4a5a7a&dates=4a5a7a">
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSANT29&bg_color=05060f&color=00e6ff&line=00e6ff&point=ffffff&area=true&hide_border=true" width="100%">
 
 </div>
 ---
