@@ -123,5 +123,7 @@ Análise de tráfego, protocolos e detecção de anomalias em ambiente controlad
 </table>
 
 ---
-<img src="assets/hero-binary-animated.svg" alt="GUILHERME SANTOS — SANT29 / CYBERSECURITY — Network Security, Blue Team, Automation" width="100%">
+<p align="center">
+  <img src="./assets/sistema-acessado.svg" alt="Sistema Acessado" width="100%" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:0D1117&height=100&section=footer"/>
