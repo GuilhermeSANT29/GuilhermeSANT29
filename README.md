@@ -2,7 +2,7 @@
 <img src="assets/hero-binary-animated.svg" alt="GUILHERME SANTOS — SANT29 / CYBERSECURITY — Network Security, Blue Team, Automation" width="100%">
 
 <a href="https://guilhermesant29.github.io/">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=root%40sant29%3A~%23+whoami;Cybersecurity+Analyst+%7C+SOC+%7C+Blue+Team;Network+Security+%2B+Database+Specialist;Python+%7C+SQL+%7C+Linux+%7C+Automation;Open+to+Work+%E2%80%94+Est%C3%A1gio+%2F+Ju%CC%81nior" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=root%40sant29%3A~%23+whoami;Cybersecurity+Analyst+%7C+SOC+%7C+Blue+Team;Network+Security+%2B+Database+Specialist;Python+%7C+SQL+%7C+Linux+%7C+Automation;Open+to+Work+%E2%80%94+Est%C3%A1gio+%2F+Ju%CC%81nior" />
 </a>
 
 </div>
