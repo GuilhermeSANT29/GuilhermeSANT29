@@ -1,117 +1,73 @@
 <div align="center">
 
-<img src="assets/hero-binary-animated.svg" alt="GUILHERME SANTOS — CYBERSECURITY: NETWORK SECURITY, BLUE TEAM E AUTOMAÇÃO" width="100%">
+<img src="assets/hero-binary-animated.svg" alt="Guilherme Santos — Cybersecurity, Security Engineering and Automation" width="100%">
 
-<h1><font face="Arial">GUILHERME SANTOS</font></h1>
-<p><font face="Arial"><b>CYBERSECURITY ANALYST · SOC / BLUE TEAM · NETWORK SECURITY &amp; DATABASES</b></font></p>
+# GUILHERME SANTOS
 
-<p align="center">
- <a href="https://guilhermesant29.github.io/"><img src="https://img.shields.io/badge/🛡️_SITE-0D1117?style=for-the-badge&logoColor=39FF14" alt="PORTFÓLIO"></a>&nbsp;
-<a href="https://www.linkedin.com/in/gui-santos05092008/"><img src="https://img.shields.io/badge/🖥️LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"></a>
-  <a href="mailto:contate.guilherme.santos@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="EMAIL"></a>&nbsp;
-  <a href="https://guilhermesant29.github.io/CURRICULO-Guilherme-Santos.pdf"><img src="https://img.shields.io/badge/CURRÍCULO-0D1117?style=for-the-badge&logo=googledocs&logoColor=4285F4" alt="CURRÍCULO"></a>
+**CYBERSECURITY · SECURITY ENGINEERING · PYTHON · AUTOMATION · NETWORK SECURITY**
+
+<p>
+<a href="https://guilhermesant29.github.io/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/gui-santos05092008/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:contate.guilherme.santos@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 </div>
 
----
+## Perfil técnico
 
-## `$ CAT SOBRE.TXT`
+Técnico em Cibersistemas para Automação pelo SENAI, com foco em **Cybersecurity, Security Engineering, automação e desenvolvimento de software**.
 
-```bash
-> TÉCNICO EM CIBERSISTEMAS PARA AUTOMAÇÃO — SENAI (GUARULHOS, SP)
-> ESPECIALIDADE: NETWORK SECURITY · BLUE TEAM · DATABASES · BACKEND
-> STACK DE DEFESA: SOC / TRIAGEM · ANÁLISE DE LOGS · THREAT DETECTION · HARDENING
-> STACK TÉCNICA: PYTHON · SQL/MYSQL · LINUX · WINDOWS SERVER · TCP/IP
-> IDIOMAS: PT-BR (NATIVO) · EN (B1) · ES (A2)
-> STATUS: ABERTO A ESTÁGIO E VAGAS JÚNIOR EM CYBERSECURITY / SOC / BLUE TEAM
-```
+Minha base combina **Python, APIs REST, SQL/MySQL, redes, Linux e Windows Server**, permitindo trabalhar na interseção entre desenvolvimento, infraestrutura, dados e segurança.
 
----
+Busco oportunidades de **estágio e posições júnior** em Cybersecurity, SOC/Blue Team, Security Engineering e Software Engineering.
 
-## RESUMO
+## Core Stack
 
-TÉCNICO EM CIBERSISTEMAS PARA AUTOMAÇÃO (SENAI GUARULHOS), COM FOCO EM **DEFESA**: MONITORAMENTO DE EVENTOS, ANÁLISE DE LOGS, SEGURANÇA DE REDES E HARDENING. COMPLEMENTO A ÁREA DE SEGURANÇA COM UMA BASE SÓLIDA EM **BANCOS DE DADOS E AUTOMAÇÃO EM PYTHON**, O QUE ME PERMITE TRANSFORMAR DADOS BRUTOS DE INFRAESTRUTURA EM DETECÇÃO E RESPOSTA.
-
-ATUALMENTE CONSTRUINDO LABORATÓRIOS PRÓPRIOS DE SOC E ANÁLISE DE TRÁFEGO PARA DOCUMENTAR METODOLOGIA DE TRIAGEM, DETECÇÃO E RESPOSTA A INCIDENTES.
-
----
-
-## STACK
-
-| ÁREA | TECNOLOGIAS |
+| Domínio | Tecnologias / competências |
 | --- | --- |
-| **🛡️ CYBER DEFENSE** | SOC / TRIAGEM · ANÁLISE DE LOGS · THREAT DETECTION · INCIDENT RESPONSE · HARDENING · VULNERABILITY MGMT |
-| **🌐 NETWORK SECURITY** | TCP/IP · DNS · WIRESHARK · NMAP · TRAFFIC ANALYSIS |
-| **🗄️ DATABASES** | MYSQL · SQL · MODELAGEM DE DADOS |
-| **⚙️ DEV & AUTOMAÇÃO** | PYTHON · REST APIS · GIT/GITHUB · C# · C++ · CLPS · ESP8266 / IOT |
-| **🖥️ INFRA & OS** | LINUX · WINDOWS SERVER · CLOUD FUNDAMENTALS |
+| **Cybersecurity** | SOC, análise de logs, threat detection, incident response, hardening, vulnerability management |
+| **Network Security** | TCP/IP, DNS, Wireshark, Nmap, traffic analysis |
+| **Software Engineering** | Python, REST APIs, automação, Git/GitHub |
+| **Data** | SQL, MySQL, modelagem de dados, integração de dados |
+| **Infrastructure** | Linux, Windows Server, cloud fundamentals |
+| **IoT** | ESP8266, sensores, integração API/database |
 
----
+## Projetos em destaque
 
-## PROJETOS
+### 🔌 Projeto Integrador — IoT Monitoring System
+Sistema de monitoramento com **ESP8266 + sensores + REST API + banco de dados + Google Sheets**, incluindo autenticação, armazenamento histórico e mecanismo de alerta.
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+→ [Ver repositório](https://github.com/GuilhermeSANT29/Projeto-Integrador---IoT)
 
-**🔌 IOT MONITORING SYSTEM**  
-MONITORAMENTO COM ESP8266 + API REST + MYSQL + GOOGLE SHEETS.  
-`ESP8266` `REST API` `PYTHON` `MYSQL`  
-[→ REPOSITÓRIO](https://github.com/GuilhermeSANT29/Projeto-Integrador---IoT)
+### 🗄️ DataBase — SQL & Database Engineering
+Coleção organizada de práticas e projetos envolvendo **SQL, MySQL, SQL Server, modelagem, relacionamentos, procedures, functions e views**, incluindo aplicações práticas.
 
-</td>
-<td width="50%" valign="top">
+→ [Ver repositório](https://github.com/GuilhermeSANT29/DataBase)
 
-**🏭 INDUSTRIAL MONITORING SYSTEM**  
-GESTÃO DE COLABORADORES, MÁQUINAS E SENSORES COM BANCO DE DADOS E AUTOMAÇÃO.  
-`PYTHON` `MYSQL` `AUTOMATION`  
-[→ REPOSITÓRIO](https://github.com/GuilhermeSANT29/DataBase/tree/main/projeto%20do%20falabella)
+### 🌐 Portfolio
+Portfólio pessoal com apresentação profissional, currículo e informações de carreira.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+→ [Ver repositório](https://github.com/GuilhermeSANT29/GuilhermeSANT29.github.io)
 
-**🕵️ SECURITY MONITORING LAB** `EM ANDAMENTO`  
-ANÁLISE DE LOGS, TRIAGEM DE EVENTOS E INDICADORES DE SEGURANÇA.  
-`SOC` `LOGS` `DETECTION` `BLUE TEAM`
+## Atualmente estudando
 
-</td>
-<td width="50%" valign="top">
+- Cyber Defense e SOC
+- Network Security
+- Security Engineering
+- Python para automação e tooling
+- APIs e integração de sistemas
+- Banco de dados e SQL
+- Cloud e infraestrutura
 
-**📡 NETWORK SECURITY LAB** `EM ANDAMENTO`  
-ANÁLISE DE TRÁFEGO, PROTOCOLOS E DETECÇÃO DE ANOMALIAS EM AMBIENTE CONTROLADO.  
-`TCP/IP` `DNS` `TRAFFIC ANALYSIS`
+## Princípios técnicos
 
-</td>
-</tr>
-</table>
-
----
-
-## CERTIFICAÇÕES & ESTUDOS
-
-- TÉCNICO EM CIBERSISTEMAS PARA AUTOMAÇÃO — SENAI 1200H | 2025 - 2026
-
----
-
-## 📊 GITHUB CONTRIBUTIONS
+- Segurança desde o desenho da solução
+- Automação de tarefas repetitivas
+- Código reproduzível e documentado
+- Integração entre sistemas e dados
+- Aprendizado baseado em implementação prática
 
 <div align="center">
-
-<a href="https://github.com/GuilhermeSANT29">
-  <img src="./profile/streak.svg" alt="GITHUB STREAK" width="70%">
-</a>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSANT29&bg_color=05060f&color=00e6ff&line=00e6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GUILHERME SANTOS CONTRIBUTION GRAPH">
-
+<img src="./profile/streak.svg" alt="GitHub contribution streak" width="70%">
 </div>
-
----
-
-<p align="center">
-  <img src="./assets/sistema-acessado.svg" alt="SISTEMA ACESSADO" width="100%" />
-</p>
