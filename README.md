@@ -2,8 +2,6 @@
 
 <img src="assets/hero-binary-animated.svg" alt="Guilherme Santos — Cybersecurity, Security Engineering and Automation" width="100%">
 
-# GUILHERME SANTOS
-
 **CYBERSECURITY · SECURITY ENGINEERING · PYTHON · AUTOMATION · NETWORK SECURITY**
 
 <p>
